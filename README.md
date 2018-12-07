@@ -1,5 +1,5 @@
 # Automapstruct
-[AutoValue](https://github.com/google/auto/blob/master/value/userguide/index.md) build methods support for [MapStruct](http://mapstruct.org)
+[AutoValue](https://github.com/google/auto/blob/master/value/userguide/index.md) builder methods support for [MapStruct](http://mapstruct.org)
 
 
 ## Download
