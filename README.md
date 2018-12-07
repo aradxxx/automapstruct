@@ -7,10 +7,12 @@
         ...
         maven { url 'https://raw.github.com/aradxxx/automapstruct/release/' }
     }
-    
-    implementation org.mapstruct:mapstruct:1.3.0.Beta2
-    //instead mapStruct annotationProcessor (org.mapstruct:mapstruct-processor:1.3.0.Beta2})
-    annotationProcessor "com.aradxxx:automapstruct:${latest_version}"
+    dependencies {
+        ...
+        implementation org.mapstruct:mapstruct:1.3.0.Beta2
+        //instead mapStruct annotationProcessor (org.mapstruct:mapstruct-processor:1.3.0.Beta2})
+        annotationProcessor "com.aradxxx:automapstruct:${latest_version}"
+    }
     
     
 ### Usage
