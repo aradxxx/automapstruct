@@ -4,7 +4,7 @@
 
 ## Download
     repositories {
-        
+        ...
         maven { url 'https://raw.github.com/aradxxx/automapstruct/release/' }
     }
     
