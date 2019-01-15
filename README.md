@@ -11,7 +11,7 @@
         ...
         implementation org.mapstruct:mapstruct:1.3.0.Beta2
         // instead mapStruct annotationProcessor (org.mapstruct:mapstruct-processor:1.3.0.Beta2})
-        annotationProcessor "com.aradxxx:automapstruct:${latest_version}"
+        annotationProcessor "ru.aradxxx:automapstruct:${latest_version}"
     }
     
     
