@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.aradxxx</groupId>
+  <groupId>ru.aradxxx</groupId>
   <artifactId>automapstruct</artifactId>
   <versioning>
-    <release>1.0</release>
+    <release>1.3.0.Beta2</release>
     <versions>
       <version>1.0</version>
+      <version>1.3.0.Beta2</version>
     </versions>
-    <lastUpdated>20181207000000</lastUpdated>
+    <lastUpdated>20190115150000</lastUpdated>
   </versioning>
 </metadata>
