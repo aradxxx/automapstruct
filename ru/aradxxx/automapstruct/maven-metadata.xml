@@ -3,11 +3,12 @@
   <groupId>ru.aradxxx</groupId>
   <artifactId>automapstruct</artifactId>
   <versioning>
-    <release>1.3.0.Beta2</release>
+    <release>1.3.0.Final</release>
     <versions>
       <version>1.0</version>
       <version>1.3.0.Beta2</version>
+      <version>1.3.0.Final</version>
     </versions>
-    <lastUpdated>20190115150000</lastUpdated>
+    <lastUpdated>20190426000000</lastUpdated>
   </versioning>
 </metadata>
