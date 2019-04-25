@@ -9,9 +9,9 @@
     }
     dependencies {
         ...
-        implementation org.mapstruct:mapstruct:1.3.0.Beta2
-        // instead mapStruct annotationProcessor (org.mapstruct:mapstruct-processor:1.3.0.Beta2})
-        annotationProcessor "ru.aradxxx:automapstruct:${latest_version}"
+        implementation "org.mapstruct:mapstruct:1.3.0.Final"
+        // instead mapStruct annotationProcessor (org.mapstruct:mapstruct-processor:1.3.0.Final)
+        annotationProcessor "ru.aradxxx:automapstruct:1.3.0.Final"
     }
     
     
