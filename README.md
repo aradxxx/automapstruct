@@ -5,13 +5,14 @@
 ## Download
     repositories {
         ...
-        maven { url 'https://raw.github.com/aradxxx/automapstruct/release/' }
+         maven { url "https://jitpack.io" }
     }
+    
     dependencies {
         ...
         implementation "org.mapstruct:mapstruct:1.3.0.Final"
         // instead mapStruct annotationProcessor (org.mapstruct:mapstruct-processor:1.3.0.Final)
-        annotationProcessor "ru.aradxxx:automapstruct:1.3.0.Final"
+        annotationProcessor "com.github.aradxxx:automapstruct:1.3.0.Final"
     }
     
     
