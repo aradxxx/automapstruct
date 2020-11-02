@@ -1,6 +1,6 @@
 package automapstruct.sample;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import org.mapstruct.AfterMapping;
 import org.mapstruct.BeforeMapping;

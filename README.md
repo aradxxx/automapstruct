@@ -10,9 +10,9 @@
     
     dependencies {
         ...
-        implementation "org.mapstruct:mapstruct:1.3.0.Final"
-        // instead mapStruct annotationProcessor (org.mapstruct:mapstruct-processor:1.3.0.Final)
-        annotationProcessor "com.github.aradxxx:automapstruct:1.3.0.Final"
+        implementation "org.mapstruct:mapstruct:1.4.1.Final"
+        // instead mapStruct annotationProcessor (org.mapstruct:mapstruct-processor:1.4.1.Final)
+        annotationProcessor "com.github.aradxxx:automapstruct:1.4.1.Final"
     }
     
     

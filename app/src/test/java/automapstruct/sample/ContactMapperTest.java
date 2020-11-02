@@ -1,12 +1,12 @@
 package automapstruct.sample;
 
-import android.support.annotation.NonNull;
-
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.math.BigDecimal;
 import java.util.Date;
+
+import androidx.annotation.NonNull;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
@@ -42,7 +42,6 @@ public class ContactMapperTest {
     public void toContactDto() {
         ContactDto mapped = ContactMapper.MAPPER.map(contact);
         assertContactDtoEquals(mapped);
-
     }
 
     @Test
